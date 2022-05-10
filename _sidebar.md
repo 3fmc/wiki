@@ -1,12 +1,11 @@
 - **📜 Thông tin chung**
 
-  - [Bộ luật chung](common/rules)
+  - [Bộ luật chung](common/rules.md)
 
+- **🎓 Hướng dẫn chung**
+  - [Hướng dẫn tố cáo](guidelines/report.md)
 
 - **⚔ Faction Raid**
 
-  - [Giới thiệu](faction-raid/introduction)
-  - [Hệ thống Faction](faction-raid/faction-system)
-
-- **🎓 Hướng dẫn chung**
-  - [Hướng dẫn tố cáo](guidelines/report)
+  - [Giới thiệu](faction-raid/introduction.md)
+  - [Hệ thống Faction](faction-raid/faction-system.md)
