@@ -1,6 +1,6 @@
 # Hướng dẫn tố cáo
 
-> **Lưu ý** Tố cáo và kháng cáo chỉ được xử lsi tại [Nhóm Report & Appeal](facebook.com/groups/3fmcreportappeal/)
+> **Lưu ý:** Đăng tố cáo và kháng cáo tại [Nhóm Report & Appeal](https://facebook.com/groups/3fmcreportappeal/)
 
 1. Đầu tiên hãy đọc luật của server để xem người bạn muốn báo cáo có vi phạm điều luật nào không: [Xem tại đây](common/rules.md)  
 Trong một số trường hợp đặc biệt, người chơi tuy không vi phạm điều luật nào nhưng nếu staff thấy cần thiết sẽ vẫn xử lí.
