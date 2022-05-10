@@ -2,6 +2,8 @@
 
   - [Bộ luật chung](common/rules.md)
 
+- **🎓 Hướng dẫn chung**
+  - [Hướng dẫn tố cáo](guidelines/report.md)
 
 - **⚔ Faction Raid**
 

@@ -13,3 +13,7 @@ Một số thông tin bạn nên đọc
 ## Cộng đồng
 
 Tham gia các cộng đồng của 3FMC
+ - [Discord chính thức](https://3fmc.com/discord)  
+ - [Trang Facebook](https://fb.com/fightforfap)  
+ - [Nhóm giao lưu](https://facebook.com/groups/LeagueOf3F)  
+ - [Nhóm Report & Appeal](https://facebook.com/groups/3fmcreportappeal/) (Chỉ dành cho việc tố cáo và kháng cáo)
