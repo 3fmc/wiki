@@ -3,7 +3,7 @@
   - [Bộ luật chung](common/rules.md)
 
 - **🎓 Hướng dẫn chung**
-  - [Hướng dẫn tố cáo](guidelines/report.md)
+  - [Hướng dẫn tố cáo](guides/report.md)
 
 - **⚔ Faction Raid**
 
