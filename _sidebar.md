@@ -7,3 +7,6 @@
 
   - [Giới thiệu](faction-raid/introduction)
   - [Hệ thống Faction](faction-raid/faction-system)
+
+- **Hướng dẫn chung**
+  - [Hướng dẫn tố cáo](guidelines/report)
