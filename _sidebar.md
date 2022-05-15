@@ -4,7 +4,9 @@
 
 - **:mortar_board: Hướng dẫn chung**
 
-  - [Hướng dẫn tố cáo](guides/report.md)
+  - [Tham gia chơi](guides/join.md)
+  - [Hệ thống tài khoản](guides/account.md)
+  - [Tố cáo và kháng cáo](guides/report.md)
 
 - **:crossed_swords: Faction Raid**
 
