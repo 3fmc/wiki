@@ -24,12 +24,12 @@ Trong đó, **mật khẩu** là một chuỗi kí tự mà bạn đã nhập kh
 
 !> Nếu bạn thấy yêu cầu đăng nhập mặc dù chưa đăng ký khi lần đầu vào server, tên tài khoản này đã có người sử dụng rồi. Hãy chọn tên khác nhé!
 
-## Địa chỉ Email
+## Địa chỉ Email :id=email
 
 **Địa chỉ Email** là địa chỉ thư điện tử của bạn *(ví dụ: 3fmc\@gmail.com)*  
 Bạn nên thêm email của mình sớm nhất có thể để bảo vệ tài khoản của mình và khôi phục nếu có sự cố xảy ra.
 
-### Những câu lệnh liên quan đến email :id=email
+### Những câu lệnh liên quan đến email
 
 Câu lệnh | Mô tả
 --- | ---
