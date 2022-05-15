@@ -57,7 +57,7 @@ Hãy làm theo hướng dẫn trong thư để hoàn tất quá trình khôi ph�
 
 ?> Nếu trong quá trình khôi phục mà bạn bị thoát khỏi server, hãy vào lại và tiếp tục thực hiện những bước tiếp theo như bình thường.
 
-!> Nếu chưa thêm email vào tài khoản hoặc có vấn đề trong quá trình khôi phục, hãy liên hệ với staff tại một trong những [cộng đồng](../README.md?id=cộng-đồng)
+!> Nếu chưa thêm email vào tài khoản hoặc có vấn đề trong quá trình khôi phục, hãy liên hệ với staff tại một trong những [cộng đồng](../README.md?id=cộng-đồng) của 3FMC
 
 ## Xóa tài khoản :id=delete
 
