@@ -40,6 +40,13 @@ Câu lệnh | Mô tả
 
 !> Chỉ thêm địa chỉ email mà bạn có thể truy cập. Bạn sẽ không thể thay đổi nếu địa chỉ email bị sai.
 
+## Thay đổi mật khẩu
+
+Nếu bạn muốn thay đổi mật khẩu cho tài khoản cùa mình, hãy đăng nhập rồi sử dụng lệnh `/changepass <mật khẩu cũ> <mật khẩu mới>`  
+Bạn sẽ phải xác nhận bằng Email nếu như đã thêm vào tài khoản.
+
+Nếu bạn không nhớ mật khẩu của mình, hãy xem phần [Khôi phục tài khoản](#recover) dưới đây.
+
 ## Khôi phục tài khoản :id=recover
 
 Để bắt đầu khôi phục tài khoản, hãy vào 3FMC và dùng lệnh `/email recover <địa chỉ email>`  
