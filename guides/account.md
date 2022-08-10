@@ -40,7 +40,7 @@ Câu lệnh | Mô tả
 
 !> Chỉ thêm địa chỉ email mà bạn có thể truy cập. Bạn sẽ không thể thay đổi nếu địa chỉ email bị sai.
 
-## Thay đổi mật khẩu
+## Thay đổi mật khẩu :id=changepass
 
 Nếu bạn muốn thay đổi mật khẩu cho tài khoản cùa mình, hãy đăng nhập rồi sử dụng lệnh `/changepass <mật khẩu cũ> <mật khẩu mới>`  
 Bạn sẽ phải xác nhận bằng Email nếu như đã thêm vào tài khoản.
