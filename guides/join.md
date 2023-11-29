@@ -7,7 +7,7 @@
 - Nếu bạn đã có tài khoản premium thì có thể tải game trên trang chính thức của Mojang: https://www.minecraft.net/en-us/download
 - Nếu bạn không có tài khoản premium (hoặc không biết là gì) thì hãy tải Launcher khác
   - Bạn có thể tìm hiểu trên Google
-  - Khuyến khích dùng [**TL Legacy**](https://tlaun.ch/) (tải trực tiếp [tại đây](https://tlaun.ch/installer))
+  - Khuyến khích dùng [**Legacy Launcher**](https://tlaun.ch/) (tải trực tiếp [tại đây](https://tlaun.ch/installer))
 - Một số launcher khác có thể cân nhắc thêm
   - [Lunar Client (premium)](https://www.lunarclient.com/)
   - [Salwyrr (premium)](https://www.salwyrr.com/)
