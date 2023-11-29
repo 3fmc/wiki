@@ -11,6 +11,7 @@
 - Một số launcher khác có thể cân nhắc thêm
   - [Lunar Client (premium)](https://www.lunarclient.com/)
   - [Salwyrr (premium)](https://www.salwyrr.com/)
+  - [AxolotlClient (không yêu cầu premium)](https://modrinth.com/mod/axolotlclient) (hơi khó cài, đòi hỏi trình độ cao)
   - ??? Client (soon:tm:)
 
 !> Không khuyến khích dùng **TLauncher** do gây ra lỗi với hệ thống skin và những nghi vấn theo dõi người dùng. Tìm hiểu thêm [tại đây](https://www.reddit.com/r/PiratedGames/comments/nay62e/which_are_the_best_minecraft_cracked_launchers/gxy9rr5/)
