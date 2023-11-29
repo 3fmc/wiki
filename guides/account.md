@@ -49,6 +49,8 @@ Nếu bạn không nhớ mật khẩu của mình, hãy xem phần [Khôi phục
 
 ## Khôi phục tài khoản :id=recover
 
+?> Bạn có thể khôi phục tài khoản (đặt lại mật khẩu) bằng cách [điền vào biểu mẫu online tại đây](https://3fmc.com/login).
+
 Để bắt đầu khôi phục tài khoản, hãy vào 3FMC và dùng lệnh `/email recover <địa chỉ email>`  
 Bạn cần phải thêm địa chỉ email từ trước để có thế khôi phục tài khoản.
 
